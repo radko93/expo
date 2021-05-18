@@ -10,6 +10,8 @@
 
 ### 💡 Others
 
+- Migrated from `unimodules-permissions-interface` to `expo-modules-core`.
+
 ## 1.0.0 — 2021-05-18
 
 ### 🐛 Bug fixes
